@@ -1,2 +1,1 @@
-# kavaryn-preview
-Kavaryn private preview
+https://aetheris.org
